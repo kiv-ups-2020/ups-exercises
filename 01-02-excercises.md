@@ -63,5 +63,10 @@ cmd.exe nebo powershell
 * nslookup
 * netstat
 * route
-* ethereal
-
+* wireshark
+* ping
+* tracert
+* telnet
+* arp
+* hostname
+* getmac
